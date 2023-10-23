@@ -22,6 +22,3 @@
 <h3 align="bottom">Please Fallow Me:</h3>
 
 <a href="https://twitter.com/shaggy__83" target="blank"><img src="https://img.shields.io/twitter/follow/shaggy__83?logo=twitter&style=for-the-badge" alt="shaggy__83" /></a>
-<a href="https://www.instagram.com/_medishn_/" target="blank"><img src="https://img.shields.io/twitter/follow/shaggy__83?logo=twitter&style=for-the-badge" alt="shaggy__83" /></a>
-<a href="https://twitter.com/shaggy__83" target="blank"><img src="https://img.shields.io/twitter/follow/shaggy__83?logo=twitter&style=for-the-badge" alt="shaggy__83" /></a>
-shaggy__83
