@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/shaggy__83" target="blank"><img src="https://img.shields.io/twitter/follow/shaggy__83?logo=twitter&style=for-the-badge" alt="shaggy__83" /></a> </p>
 
+<img src="https://github.com/m-mdy-m/gif/blob/main/Life.js.gif?raw=true"/>
+
 - 👨‍💻 All of my projects are available at [just github](just github)
 
 - 📫 How to contact me **mahdimamashli1383@gmail.com**
