@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm mahdi</h1>
-<h3 align="center">I am a junior web developer</h3>
+<img src="https://github.com/m-mdy-m/gif/blob/main/Life.js.gif?raw=true" />
 
-<p align="left"> <a href="https://twitter.com/shaggy__83" target="blank"><img src="https://img.shields.io/twitter/follow/shaggy__83?logo=twitter&style=for-the-badge" alt="shaggy__83" /></a> </p>
+<br/>
+👨‍💻 All the source codes of my projects are only available on github
 
-<img src="https://github.com/m-mdy-m/gif/blob/main/Life.js.gif?raw=true"/>
 
-- 👨‍💻 All of my projects are available at [just github](just github)
-
-- 📫 How to contact me **mahdimamashli1383@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/shaggy__83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaggy__83" height="30" width="40" /></a>
 <a href="https://instagram.com/_medishn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_medishn_" height="30" width="40" /></a>
@@ -22,4 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&locale=en" alt="m-mdy-m" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-mdy-m&" alt="m-mdy-m" /></p>
+<h3 align="left">Please Fallow Me:</h3>
+
+<p align="left"> <a href="https://twitter.com/shaggy__83" target="blank"><img src="https://img.shields.io/twitter/follow/shaggy__83?logo=twitter&style=for-the-badge" alt="shaggy__83" /></a> </p>
