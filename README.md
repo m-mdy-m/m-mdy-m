@@ -11,7 +11,7 @@
 <a href="https://instagram.com/_medishn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_medishn_" height="30" width="40" /></a>
 </p>
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&theme=synthwave"  />
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&theme=synthwave"  />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mdy-m&layout=compact&theme=synthwave" height="170px" alt="m-mdy-m" />
 
