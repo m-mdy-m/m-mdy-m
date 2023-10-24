@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm mahdi</h1>
-<img src="https://github.com/m-mdy-m/gif/blob/main/Life.js.gif?raw=true" />
+<!-- <img src="https://github.com/m-mdy-m/gif/blob/main/Life.js.gif?raw=true" /> -->
+
+
+
+```javascript
+const me = document.world("human")
+if( sad() === true ){
+  me.sleep();
+  beAwesome()
+  me.coding()
+}
+```
 
 <br/>
 👨‍💻 All the source codes of my projects are only available on github
