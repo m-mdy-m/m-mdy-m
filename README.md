@@ -31,7 +31,7 @@ if( sad() === true ){
 
 <div align="center">
 <br/>
-<h3 align="center">framework and Tools:</h3>
+<h3 align="center">frameworks :</h3>
 <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="50"/>
