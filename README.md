@@ -4,12 +4,18 @@
 
 
 ```javascript
+const life = {
+    pronouns: "he" | "him",
+    askMeAbout: ["web dev front","music"],
+    }
+};
 const me = document.world("human")
 if( sad() === true ){
   me.sleep();
   beAwesome()
   me.coding()
 }
+
 ```
 <h3 align="center">Languages and Tools:</h3>
 <br/>
