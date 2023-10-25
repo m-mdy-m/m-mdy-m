@@ -7,7 +7,8 @@
 const mahdi = {
     pronouns: "he" | "him",
     code: [Javascript, HTML, CSS,Python],
-    askMeAbout: ["web dev","music"],
+    status:["junior "],
+    askMeAbout: ["webdev","music"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "tailwind","scss"],
