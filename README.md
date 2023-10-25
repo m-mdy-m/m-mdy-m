@@ -9,12 +9,7 @@ const life = {
     askMeAbout: ["web dev front","music"],
     }
 };
-const me = document.world("human")
-if( sad() === true ){
-  me.sleep();
-  beAwesome()
-  me.coding()
-}
+
 
 ```
 <br/>
