@@ -11,7 +11,7 @@ const mahdi = {
     technologies: {
         frontEnd: {
             css: ["bootstrap", "tailwind","scss"],
-            ["Javascrips"],
+            js : ["Javascrips"],
         },
         backEnd: {
             python: [ "django"]
