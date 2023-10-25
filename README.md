@@ -44,9 +44,6 @@ const mahdi = {
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="50"/> 
 </div>
 <br/>
-<p align="center" margin-top: 35px;>
-    👨‍💻 All the `source codes` of my projects are only available `on github`
-</p>
 <br/>
 <h1 align="center">Connect with me:</h1>
 <p align="center">
