@@ -10,8 +10,8 @@ const mahdi = {
     askMeAbout: ["web dev","music"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "tailwind"],
-            js:[react]
+            css: ["bootstrap", "tailwind","scss"],
+            ["Javascrips"],
         },
         backEnd: {
             python: [ "django"]
