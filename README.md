@@ -4,9 +4,18 @@
 
 
 ```javascript
-const life = {
+const mahdi = {
     pronouns: "he" | "him",
-    askMeAbout: ["web dev front","music"],
+    code: [Javascript, HTML, CSS,Python],
+    askMeAbout: ["web dev","music"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "tailwind"],
+            js:[react]
+        },
+        backEnd: {
+            python: [ "django"]
+        }        
     }
 };
 
