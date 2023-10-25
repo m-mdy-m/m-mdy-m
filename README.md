@@ -6,7 +6,7 @@
 ```javascript
 const mahdi = {
     pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS,Python],
+    code: [Javascript, HTML, CSS, Python],
     status:["junior "],
     askMeAbout: ["webdev","music"],
     technologies: {
