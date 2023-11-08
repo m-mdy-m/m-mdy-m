@@ -15,10 +15,10 @@ const mahdi = {
             js : ["Javascrips"],
         },
         backEnd: {
-            python: [ "django"]
+            python: ["django"]
         },
         desktop:{
-            python:[tkinter]
+            python:["tkinter"]
         }
     }
 };
