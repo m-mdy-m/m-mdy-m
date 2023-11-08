@@ -17,7 +17,7 @@ const mahdi = {
         backEnd: {
             python: [ "django"]
         },
-        dektop:{
+        desktop:{
             python:[tkinter]
         }
     }
