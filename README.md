@@ -53,8 +53,3 @@ const mahdi = {
 <a href="https://twitter.com/shaggy__83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaggy__83" height="50" width="100" /></a>
 <a href="https://instagram.com/_medishn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_medishn_" height="50" width="100" /></a>
 </p>
-<br/>
-
-<br/>
-</a>
-<br/>
