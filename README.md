@@ -55,9 +55,4 @@ const mahdi = {
 </p>
 
 <br/>
-<a align="center"  target="_blank" rel="noreferrer">
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&theme=synthwave"  />
-
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mdy-m&layout=compact&theme=synthwave" height="170px" alt="m-mdy-m" />
-</a>
 <br/>
