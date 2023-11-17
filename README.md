@@ -1,7 +1,28 @@
 <h1 align="center">Hi 👋, I'm mahdi</h1>
-<!-- <img src="https://github.com/m-mdy-m/gif/blob/main/Life.js.gif?raw=true" /> -->
+
+```javascript
+const mahdi = {
+    pronouns: "he" | "him",
+    code: [Javascript, HTML, CSS, Python],
+    status:["web junior"],
+    askMeAbout: ["webdev","music"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "tailwind","scss"],
+            js : ["Javascrips"],
+        },
+        backEnd: {
+            python: ["django"],
+            javasctip:["nodejs-{just-API}"]
+        },
+        desktop:{
+            python:["tkinter"]
+        }
+    }
+};
 
 
+```
 
 <br/>
 <h3 align="center">Languages and Tools:</h3>
