@@ -15,7 +15,8 @@ const mahdi = {
             js : ["Javascrips"],
         },
         backEnd: {
-            python: ["django"]
+            python: ["django"],
+            javasctip:["nodejs-{just-API}"]
         },
         desktop:{
             python:["tkinter"]
