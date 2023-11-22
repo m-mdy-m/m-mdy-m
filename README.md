@@ -14,9 +14,6 @@ const mahdi = {
         backEnd: {
             javasctip:["nodejs"]
         },
-        desktop:{
-            python:["tkinter"]
-        }
     }
 };
 
