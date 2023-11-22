@@ -13,7 +13,7 @@ const mahdi = {
         },
         backEnd: {
             python: ["django"],
-            javasctip:["nodejs-{just-API}"]
+            javasctip:["nodejs"]
         },
         desktop:{
             python:["tkinter"]
