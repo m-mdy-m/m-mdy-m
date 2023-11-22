@@ -9,10 +9,12 @@ const mahdi = {
     technologies: {
         frontEnd: {
             css: ["bootstrap", "tailwind","scss"],
-            js : ["Javascrips"],
+            js : ["js"],
+            JsLib:["swiper","CahrtJs","particles.js","AOS","Parallax",...],
         },
         backEnd: {
-            javasctip:["nodejs"]
+            javasctip:["nodejs"],
+            JsLib:["axios"]
         },
     }
 };
