@@ -10,7 +10,7 @@ const mahdi = {
         frontEnd: {
             css: ["bootstrap", "tailwind","scss"],
             js : ["js"],
-            JsLib:["swiper","CahrtJs","particles.js","AOS","Parallax",...],
+            JsLib:["swiper","CahrtJs","particles","AOS","Parallax",...],
         },
         backEnd: {
             javasctip:["nodejs"],
