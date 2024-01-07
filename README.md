@@ -90,8 +90,13 @@ Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here t
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mdy-m&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Al Mahdi's Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mdy-m&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mdy-m&custom_title=Al%20Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Al Mahdi's Graph" />
+</p>
+
 
 ---
 
