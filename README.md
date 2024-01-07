@@ -28,25 +28,26 @@
 </p>
 <br />
 
-<h2 align="center">  About Me </h2>
+<h2 align="center">About Me</h2>
 
-👋 Hey there! I'm Mahdi, a web developer passionate about creating engaging web experiences.
-
-✌️ Enjoy Programming and Sharing Knowledge  
-I love collaborating with fellow developers, exploring new technologies, and sharing insights.
-
-❤️ Love Coding and Learning  
-I'm driven by the thrill of coding, constantly experimenting with frameworks and pushing boundaries.
-
-📧 Reach Me Anytime  
-Have a question or suggestion? Drop me a line at mahdimamashli1383@gmail.com.
-
-💬 Ask Me About  
-Troubleshooting, brainstorming ideas, or anything related to web development.
-
-💬 Ask Me About Anything Here  
-Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here to help. Don't hesitate to reach out—I'm ready to dive into discussions on anything related to web development.
-
+<p align="center">
+    👋 Hey there! I'm Mahdi, a web developer passionate about creating engaging web experiences.
+    <br/><br/>
+    ✌️ <strong>Enjoy Programming and Sharing Knowledge</strong> <br/>
+    I love collaborating with fellow developers, exploring new technologies, and sharing insights.
+    <br/><br/>
+    ❤️ <strong>Love Coding and Learning</strong> <br/>
+    I'm driven by the thrill of coding, constantly experimenting with frameworks and pushing boundaries.
+    <br/><br/>
+    📧 <strong>Reach Me Anytime</strong> <br/>
+    Have a question or suggestion? Drop me a line at mahdimamashli1383@gmail.com.
+    <br/><br/>
+    💬 <strong>Ask Me About</strong> <br/>
+    Troubleshooting, brainstorming ideas, or anything related to web development.
+    <br/><br/>
+    💬 <strong>Ask Me About Anything Here</strong> <br/>
+    Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here to help. Don't hesitate to reach out—I'm ready to dive into discussions on anything related to web development.
+</p>
 
 ## Technologies I Use
 
@@ -69,32 +70,24 @@ Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here t
 </div>
 
 <p align="center">
-  <a href="https://github.com/m-mdy-m">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mdy-m&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mdy-m&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/m-mdy-m">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-mdy-m&theme=radical" alt="Al Mahdi's GitHub Contribution"/>
-  </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-mdy-m&theme=radical" alt="Al Mahdi's GitHub Contribution" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/m-mdy-m">
-    <img alt="Al Mahdi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-  </a>
-  <a href="https://github.com/m-mdy-m">
-    <img alt="Al Mahdi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=m-mdy-m&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
-  </a>
+    <a href="https://github.com/m-mdy-m">
+        <img alt="Al Mahdi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
+    <a href="https://github.com/m-mdy-m">
+        <img alt="Al Mahdi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=m-mdy-m&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mdy-m&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mdy-m&custom_title=Al%20Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Al Mahdi's Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mdy-m&custom_title=Al%20Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Al Mahdi's Graph" />
 </p>
 
 
