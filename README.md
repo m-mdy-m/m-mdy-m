@@ -18,9 +18,16 @@
  </a> 
  <a href="https://medium.com/@m--mdy--m" target="_blank">
   <img src="https://img.shields.io/badge/Medium-181816?&style=for-the-badge&logo=medium&logoColor=white" alt="m--mdy--m"  />
+  </a>
+  <a href="https://t.me/m_mdy_m" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="m--mdy--m"  />
+  </a> 
+  <a href="https://stackoverflow.com/users/19394098/mahdi" target="_blank">
+    <img src="https://img.shields.io/badge/stackoverflow-F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="m--mdy--m"  />
   </a> 
 </p>
 <br />
+
 <h2 align="center">  About Me </h2>
 
 👋 Hey there! I'm Mahdi, a web developer passionate about creating engaging web experiences.
