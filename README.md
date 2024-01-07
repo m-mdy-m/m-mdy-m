@@ -49,10 +49,6 @@ const mahdi = {
 <a href="https://instagram.com/_medishn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_medishn_" height="50" width="100" /></a>
 </p>
 
-
-
-
-
 <br/>
 <a align="center"  target="_blank" rel="noreferrer">
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=m-mdy-m&show_icons=true&theme=synthwave"  />
