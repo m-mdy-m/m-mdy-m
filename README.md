@@ -2,7 +2,7 @@
 
 ```javascript
 const mahdi = {
-    code: ["Javascript","HTML", "CSS", "Python"],
+    code: ["Javascript","HTML", "CSS"],
     status:["web junior"],
     askMeAbout: ["webdev","music"],
     technologies: {
