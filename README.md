@@ -1,8 +1,10 @@
 ![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Web+Developer,;Computer+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b> Mahdi </b>
+                <b> Mahdi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
         </samp>
 </h3>
 
@@ -28,7 +30,8 @@
 </p>
 <br />
 
-<h2 align="center">About Me</h2>
+
+<h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <b>About me</b></h2>
 
 <p align="center">
     👋 Hey there! I'm Mahdi, a web developer passionate about creating engaging web experiences.
@@ -49,10 +52,10 @@
     Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here to help. Don't hesitate to reach out—I'm ready to dive into discussions on anything related to web development.
 </p>
 
-## Technologies I Use
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
 <div align="center">
-
+        
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -68,6 +71,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-mdy-m&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
@@ -89,7 +94,9 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mdy-m&custom_title=Al%20Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Al Mahdi's Graph" />
 </p>
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=500&&section=footer"/>
+</p>
 
 ---
 
