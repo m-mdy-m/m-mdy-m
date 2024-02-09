@@ -49,7 +49,7 @@
     Troubleshooting, brainstorming ideas, or anything related to web development.
     <br/><br/>
     💬 <strong>Ask Me About Anything Here</strong> <br/>
-    Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here to help. Don't hesitate to reach out—I'm ready to dive into discussions on anything related to web development.
+    Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here to help. Don't hesitate to reach out I'm ready to dive into discussions on anything related to web development.
 </p>
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
