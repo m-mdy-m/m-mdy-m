@@ -18,7 +18,7 @@
  <a href="https://www.instagram.com/_medishn_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="_medishn_" />
  </a> 
- <a href="https://medium.com/@m--mdy--m" target="_blank">
+ <a href="https://m-mdy-m.medium.com/" target="_blank">
   <img src="https://img.shields.io/badge/Medium-181816?&style=for-the-badge&logo=medium&logoColor=white" alt="m--mdy--m"  />
   </a>
   <a href="https://t.me/m_mdy_m" target="_blank">
