@@ -72,7 +72,6 @@
 
 </div>
 
-<a href="https://gitroll.io/profile/u2iAnPEEuzMPkHnpqlfKcLyKqF0G3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u2iAnPEEuzMPkHnpqlfKcLyKqF0G3" alt="GitRoll Profile Badge"/></a>
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
