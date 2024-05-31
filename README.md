@@ -7,7 +7,6 @@
                 <b> Mahdi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
         </samp>
 </h3>
-
 <p align="center">
  <a href="https://dev.to/m__mdy__m" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="m__mdy__m" />
