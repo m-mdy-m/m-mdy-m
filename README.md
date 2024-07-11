@@ -1,27 +1,29 @@
 ![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Web+Developer,;Computer+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Web+Developer;Computer+Engineering+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3;Greatness،+of+small+steps!"></a>
 </p>
 <h3 align="center">
-        <samp>&gt; Hey There!, I am 
-                <b> Mahdi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
-        </samp>
+  <samp>&gt; Hey there, I am <b>Mahdi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /></b></samp>
 </h3>
+
 <p align="center">
- <a href="https://dev.to/m__mdy__m" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="m__mdy__m" />
- </a>
- <a href="ttps://x.com/m__mdy__m" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://m-mdy-m.medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-181816?&style=for-the-badge&logo=medium&logoColor=white" alt="m--mdy--m"  />
+  <a href="https://dev.to/m__mdy__m" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to">
+  </a>
+  <a href="https://twitter.com/m__mdy__m" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://m-mdy-m.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-181816?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
   <a href="https://stackoverflow.com/users/19394098/mahdi" target="_blank">
-    <img src="https://img.shields.io/badge/stackoverflow-F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="m--mdy--m"  />
-  </a> 
+    <img src="https://img.shields.io/badge/Stack Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
 </p>
-<br />
+
+<p align="center">
+  Hi there! I'm Mahdi, a passionate developer who enjoys creating software solutions and exploring new technologies. Connect with me via the links above to see what I'm up to or to reach out for collaborations and discussions!
+</p>
 
 
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
