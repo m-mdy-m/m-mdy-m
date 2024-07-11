@@ -30,27 +30,6 @@
 <br />
 
 
-<h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <b>About me</b></h2>
-
-<p align="center">
-    👋 Hey there! I'm Mahdi, a web developer passionate about creating engaging web experiences.
-    <br/><br/>
-    ✌️ <strong>Enjoy Programming and Sharing Knowledge</strong> <br/>
-    I love collaborating with fellow developers, exploring new technologies, and sharing insights.
-    <br/><br/>
-    ❤️ <strong>Love Coding and Learning</strong> <br/>
-    I'm driven by the thrill of coding, constantly experimenting with frameworks and pushing boundaries.
-    <br/><br/>
-    📧 <strong>Reach Me Anytime</strong> <br/>
-    Have a question or suggestion? Drop me a line at mahdimamashli1383@gmail.com.
-    <br/><br/>
-    💬 <strong>Ask Me About</strong> <br/>
-    Troubleshooting, brainstorming ideas, or anything related to web development.
-    <br/><br/>
-    💬 <strong>Ask Me About Anything Here</strong> <br/>
-    Whether it's troubleshooting, brainstorming ideas, or seeking advice, I'm here to help. Don't hesitate to reach out I'm ready to dive into discussions on anything related to web development.
-</p>
-
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
 <div align="center" style="margin-top: 20px;">
@@ -117,9 +96,3 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-mdy-m&custom_title=Al%20Mahdi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Al Mahdi's Graph" />
 </p>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=500&&section=footer"/>
-</p>
-
-
----
