@@ -33,34 +33,15 @@
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
 <div align="center" style="margin-top: 20px;">
-
-  <!-- Backend Development -->
-  <div style="margin-bottom: 10px;">
     <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Node.js">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" alt="TypeScript">
     <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&labelColor=black&logo=deno&logoColor=white" alt="Deno">
-  </div>
-  
-  <!-- Frontend Development -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript">
-  </div>
   
   <!-- Databases -->
   <div style="margin-bottom: 10px;">
 <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&labelColor=black" alt="NoSQL">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   </div>
-  
-  <!-- Tools and Technologies -->
-  <div style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&labelColor=black&logo=swagger&logoColor=85EA2D" alt="Swagger OpenAPI">
-    <img src="https://img.shields.io/badge/CI%2FCD-0170FE?style=for-the-badge&labelColor=black" alt="CI/CD">
-  </div>
-  
-  <!-- Algorithms & Data Structures -->
   <div>
     <img src="https://img.shields.io/badge/Algorithms_%26_Data_Structures-424242?style=for-the-badge&labelColor=black" alt="Algorithms & Data Structures">
   </div>
