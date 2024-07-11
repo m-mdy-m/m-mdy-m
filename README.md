@@ -48,7 +48,7 @@
   
   <!-- Databases -->
   <div style="margin-bottom: 10px;">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL">
+    <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B" alt="NoSQL">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   </div>
   
