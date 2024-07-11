@@ -1,6 +1,6 @@
 ![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Web+Developer;Computer+Engineering+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3;Greatness،+of+small+steps!"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1200&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Web+Developer;Computer+Engineering+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3;47676561746E6573732C206F6620736D616C6C207374657073;"></a>
 </p>
 <h3 align="center">
   <samp>&gt; Hey there<b><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /></b></samp>
