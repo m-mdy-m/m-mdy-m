@@ -11,18 +11,12 @@
  <a href="https://dev.to/m__mdy__m" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="m__mdy__m" />
  </a>
- <a href="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fm__mdy__m" target="_blank">
+ <a href="ttps://x.com/m__mdy__m" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/_medishn_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="_medishn_" />
- </a> 
  <a href="https://m-mdy-m.medium.com/" target="_blank">
   <img src="https://img.shields.io/badge/Medium-181816?&style=for-the-badge&logo=medium&logoColor=white" alt="m--mdy--m"  />
   </a>
-  <a href="https://t.me/m_mdy_m" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="m--mdy--m"  />
-  </a> 
   <a href="https://stackoverflow.com/users/19394098/mahdi" target="_blank">
     <img src="https://img.shields.io/badge/stackoverflow-F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="m--mdy--m"  />
   </a> 
