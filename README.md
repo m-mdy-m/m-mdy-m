@@ -4,24 +4,29 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1200&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Web+Developer;Computer+Engineering+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3;47676561746E6573732C206F6620736D616C6C207374657073;"></a>
 </p>
 <h3 align="center">
-  <samp>&gt; Hey there<b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" height="30" class="giphy-embed" ></img></b></samp>
+  <samp>&gt; Welcome to My Coding World! <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" height="30" class="giphy-embed"></img></b></samp>
 </h3>
 
 <p align="center">
   <a href="https://dev.to/m__mdy__m" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to">
   </a>
-  <a href="https://twitter.com/m__mdy__m" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://x.com/m__mdy__m" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
   </a>
   <a href="https://m-mdy-m.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-181816?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
   <a href="https://stackoverflow.com/users/19394098/mahdi" target="_blank">
-    <img src="https://img.shields.io/badge/Stack Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <a href="https://t.me/medishn" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://discord.gg/DK2Y5DWd" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
-
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
 <div align="center" style="margin-top: 20px;">
