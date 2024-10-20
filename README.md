@@ -31,9 +31,6 @@
 
 <div align="center" style="margin-top: 20px;">
     <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Node.js">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" alt="TypeScript">
-    <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&labelColor=black" alt="NoSQL">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 </div>
 
 
