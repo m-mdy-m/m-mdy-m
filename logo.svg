@@ -23,14 +23,5 @@
   <circle cx="400" cy="400" r="270" stroke="black" stroke-width="0.4" fill="none" opacity="0.5"/>
   <circle cx="400" cy="400" r="290" stroke="black" stroke-width="0.3" fill="none" opacity="0.4"/>
   <circle cx="400" cy="400" r="310" stroke="black" stroke-width="0.2" fill="none" opacity="0.3"/>
-    
-  <defs>
-    <path id="binaryPath" d="M400,400 m -70,0 a 70,70 0 1,1 140,0 a 70,70 0 1,1 -140,0" fill="none"/>
-  </defs>
-  <text fill="#333" font-family="monospace" font-size="12">
-    <textPath href="#binaryPath" startOffset="50%" method="align" spacing="auto">
-      010101110100000101010100010101010100110101000001010011100010000001010101010110010101010011010010000101001110
-    </textPath>
-  </text>
   
 </svg>
