@@ -20,7 +20,7 @@
   <a href="https://m-mdy-m.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-181816?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="https://stackoverflow.com/users/19394098/mahdi" target="_blank">
+  <a href="https://stackoverflow.com/users/19394098/m-mdy-m" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
   </a>
   <a href="https://t.me/medishn" target="_blank">
@@ -29,8 +29,8 @@
   <a href="https://discord.gg/DK2Y5DWd" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://gitlab.com/m-mdy-m" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+  <a href="https://hub.docker.com/u/bitsgenix" target="_blank">
+    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub">
   </a>
 </p>
 
