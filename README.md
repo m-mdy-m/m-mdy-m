@@ -26,7 +26,7 @@
   <a href="https://t.me/medishn" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://discord.gg/DK2Y5DWd" target="_blank">
+  <a href="https://discord.gg/nSMaEXkMUz" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://hub.docker.com/u/bitsgenix" target="_blank">
