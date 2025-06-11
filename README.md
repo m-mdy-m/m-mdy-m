@@ -19,7 +19,7 @@
   <a href="https://x.com/m__mdy__m" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
   </a>
-  <a href="https://m-mdy-m.medium.com/" target="_blank">
+  <a href="https://medium.com/@m-mdy-m" target="_blank">
     <img src="https://img.shields.io/badge/Medium-181816?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
   <a href="https://stackoverflow.com/users/19394098/m-mdy-m" target="_blank">
