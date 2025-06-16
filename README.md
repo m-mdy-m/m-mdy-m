@@ -8,7 +8,7 @@
 <!--![Coding Gif](./Life.gif)-->
 <h3 align="center">
   <samp>&gt; Welcome to My Coding World! <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" height="30" class="giphy-embed"></img></b></samp>
-</h3>
+</h3> 
 
 <p align="center">
   <a href="https://dev.to/m__mdy__m" target="_blank">
