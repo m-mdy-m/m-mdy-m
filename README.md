@@ -4,7 +4,7 @@
 </p> -->
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=242427&center=false&vCenter=true&width=800&lines=%E2%94%94%E2%94%80+%3E+Code+is+Life...;%E2%94%94%E2%94%80+%3E+Self-taught+Web+Developer;%E2%94%94%E2%94%80+%3E+Computer+Engineering+Student;%E2%94%94%E2%94%80+%3E+Active+Learner/Researcher;%E2%94%94%E2%94%80+%3E+Love+to+learn+new+stuffs..<3;%E2%94%94%E2%94%80+%3E+47676561746E6573732C206F6620736D616C6C207374657073;">
-<!--idk !-->
+<!--idk !--> 
 <!--![Coding Gif](./Life.gif)-->
 <h3 align="center">
   <samp>&gt; Welcome to My Coding World! <b><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" height="30" class="giphy-embed"></img></b></samp>
