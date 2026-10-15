@@ -1,17 +1,15 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=8FBCBB&width=560&lines=:%20set%20nocompatible;:%20Software%20%7C%20Systems%20%7C%20Languages;:%20Building%20things%20from%20scratch;:%20Explore%20the%20links%20below" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=7AA2F7&width=480&height=28&lines=Hello%2C+I'm+Mdy.;Systems+%26+low-level+software.;Small+tools.+Clean+code.;Always+learning+by+building." alt="Animated introduction" />
 </p>
 
-```vim
-" links
+```text
+ NAVIGATION
+ ─────────────────────────────
+  [1]  <a href="https://m-mdy-m.github.io/">website</a>
+  [2]  <a href="https://dev.to/m__mdy__m">dev.to</a>
+  [3]  <a href="https://medium.com/@m-mdy-m">medium</a>
+  [4]  <a href="https://stackoverflow.com/users/19394098/m-mdy-m">stackoverflow</a>
+  [5]  <a href="https://x.com/m__mdy__m">x</a>
+  [6]  <a href="https://hub.docker.com/u/bitsgenix">docker hub</a>
+ ─────────────────────────────
 ```
-<p>
-  <a href="https://m-mdy-m.github.io/">:e website</a> ·
-  <a href="https://dev.to/m__mdy__m">:e dev.to</a> ·
-  <a href="https://medium.com/@m-mdy-m">:e medium</a>
-</p>
-<p>
-  <a href="https://stackoverflow.com/users/19394098/m-mdy-m">:e stackoverflow</a> ·
-  <a href="https://x.com/m__mdy__m">:e x</a> ·
-  <a href="https://hub.docker.com/u/bitsgenix">:e docker-hub</a>
-</p>
