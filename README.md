@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&duration=3200&pause=1500&color=8FA99A&width=560&height=52&lines=Genix;code%2C+systems%2C+and+text+editors;still+figuring+things+out" alt="Genix — code, systems, and text editors" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&duration=2600&pause=1100&color=8FA99A&width=650&height=120&lines=Hi%2C+you+can+call+me+Genix.;I+build+software.+Mostly+on+purpose.;Systems%2C+terminals%2C+and+text+editors.;Got+a+problem%3F+Let's+talk+solutions.;If+the+tool+doesn't+exist%2C+I'll+probably+write+it.;No+magic.+Just+stubborn+debugging.;Results+may+vary.+Bugs+not+included." alt="Hi, you can call me Genix — software, systems, and stubborn debugging" />
 </p>
 
 <p>
