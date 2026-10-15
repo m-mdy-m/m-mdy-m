@@ -10,30 +10,3 @@
   <a href="https://x.com/m__mdy__m">x</a> ·
   <a href="https://hub.docker.com/u/bitsgenix">docker hub</a>
 </p>
-
----
-
-<h2 align="center">ARLIZ</h2>
-<p align="center"><em>Arrays, Reasoning, Logic, Identity, Zero</em></p>
-
-<table>
-  <tr>
-    <td width="280" valign="top">
-      <a href="https://github.com/papyrxis/Arliz">
-        <img src="https://raw.githubusercontent.com/papyrxis/Arliz/main/covers/cover-vol1.jpg" width="250" alt="ARLIZ — Volume I: Zero to Bit book cover" />
-      </a>
-    </td>
-    <td valign="middle">
-      <p>A three-volume book about how information becomes computation — from bits and circuits to computer architecture, memory, and arrays.</p>
-      <p><strong>I.</strong> Zero to Bit<br />
-      <strong>II.</strong> Silicon Horizon<br />
-      <strong>III.</strong> Array Odyssey</p>
-      <p>
-        <a href="https://github.com/papyrxis/Arliz/releases/download/latest-pre-release/2026_ARLIZ_Zero_to_Bit_Volume_1__latest-pre-release.pdf">Read the latest PDF preview</a><br />
-        <a href="https://github.com/papyrxis/Arliz">Explore the source</a> ·
-        <a href="https://github.com/papyrxis/Arliz/releases">All releases</a>
-      </p>
-      <sub>Work in progress · the linked PDF is a pre-release preview.</sub>
-    </td>
-  </tr>
-</table>
