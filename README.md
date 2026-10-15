@@ -4,6 +4,7 @@
 
 <p>
   <samp>
+    <a href="mailto:bitsgenix@gmail.com">email</a> ·
     <a href="https://m-mdy-m.github.io/">web</a> ·
     <a href="https://dev.to/m__mdy__m">dev.to</a> ·
     <a href="https://medium.com/@m-mdy-m">medium</a> ·
