@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&duration=2800&pause=1100&color=8FA99A&width=650&height=150&lines=Hi%2C+you+can+call+me+Genix.;I+build+software.+Mostly+on+purpose.;I+fix+bugs.+It%27s+how+I+make+new+ones.;Systems%2C+terminals%2C+and+text+editors.;If+it+doesn%27t+exist%2C+I%27ll+probably+build+it.;Got+a+problem%3F+Better+call+Genix." alt="Hi, you can call me Genix. I build software, fix bugs, and make new ones." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&duration=2800&pause=1100&color=8FA99A&width=650&height=150&lines=Hi%2C+you+can+call+me+Genix.;I+build+software.+Mostly+on+purpose.;I+fix+bugs+to+make+room+for+new+ones.;Old+bugs%3F+Boring.+I+prefer+my+own.;Systems%2C+terminals%2C+and+text+editors.;If+the+tool+doesn%27t+exist%2C+I%27ll+probably+build+it.;Got+a+problem%3F+Better+call+Genix." alt="Hi, you can call me Genix. I build software, mostly on purpose; fix bugs to make room for new ones; and prefer my own bugs over old ones." />
 </p>
 
 <p>
