@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=1100&color=8FAADC&center=true&vCenter=true&width=620&height=72&lines=Hello%2C+I'm+Mdy.;Systems%2C+languages%2C+and+low-level+software.;Writing+ARLIZ+%E2%80%94+from+bits+to+arrays." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=1100&color=8FAADC&center=true&vCenter=true&width=620&height=72&lines=Hello%2C+I'm+Genix;Systems%2C+languages%2C+and+low-level+software.;Writing+ARLIZ+%E2%80%94+from+bits+to+arrays." alt="Animated introduction" />
 </p>
 
 <p align="center">
